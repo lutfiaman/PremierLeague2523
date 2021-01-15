@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PremierLeague2523</string>
+    <string name="title_schedule">Jadwal</string>
+    <string name="title_result">Hasil</string>
+    <string name="title_favourite">Favorit</string>
+    <string name="home">Home</string>
+    <string name="away">Away</string>
+    <string name="date">Match Day</string>
+    <string name="vs">VS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stadium">stadium</string>
+    <string name="league">league</string>
+    <string name="score">0</string>
+</resources>
